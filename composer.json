@@ -1,10 +1,13 @@
 {
     "name": "Exuma/framework",
     "description": "MVC Framework Router and Database Management",
+    "keywords": ["php", "framework", "exuma-core"],
     "type": "project",
     "license": "BSD-3-Clause",
     "suport": {
-        "issues":  ""
+        "issues":  "https://github.com/amcollie/exuma/issues",
+        "source": "https://github.com/amcollie/exuma",
+        "wiki": "https://github.com/amcollie/exuma/wiki"
     },
     "autoload": {
         "psr-4": {
@@ -19,7 +22,8 @@
     "authors": [
         {
             "name": "Alexandros Collie",
-            "email": "amcollie@gmail.com"
+            "email": "amcollie@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
